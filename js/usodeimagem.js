@@ -26,11 +26,11 @@ const contratoUsoDeImagemABI = [
 		"constant": false,
 		"inputs": [
 			{
-				"name": "qualAgente",
+				"name": "qualEnderecoDoAgente",
 				"type": "address"
 			}
 		],
-		"name": "definirAgente",
+		"name": "definirEnderecoDoAgente",
 		"outputs": [],
 		"payable": false,
 		"stateMutability": "nonpayable",
